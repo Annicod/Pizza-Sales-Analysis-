@@ -26,6 +26,6 @@ MySQL: Used for data storage, querying, and analysis of sales data.
 
 Power BI Desktop: Utilized for creating interactive visualizations and dashboards to present the analysis results.
 
-#Conclusion:
+# Conclusion:
 
 The Pizza Sales Analysis project provides valuable insights into the sales patterns and performance of different pizza types. By leveraging MySQL for data analysis and Power BI for visualization, the project demonstrates how data-driven decisions can be made to enhance business operations and drive sales growth.
