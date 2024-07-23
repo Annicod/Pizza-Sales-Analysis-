@@ -11,6 +11,7 @@ Orders Per Hour: Analyzes the distribution of orders throughout the day.
 
 Total Sales: Provides a summary of total sales revenue, with a notable figure of 817.86K in sales.
 
+
 # Visulization--
 
 Monthly Sales Trends: Visualizes the number of orders per month, highlighting peak sales periods.
